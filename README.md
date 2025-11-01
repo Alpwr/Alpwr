@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there, I'm Alperika</h1>
+<h1 align="center">✨ Hey there, I'm Alpwr</h1>
 <h3 align="center">🌙 A student who loves building, learning, and creating</h3>
 
 ---
